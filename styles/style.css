@@ -1,0 +1,23 @@
+*{
+	border: 1px solid green;
+	font-size: medium;
+}
+
+.cutie-container{
+	display: inline-block;
+    padding: 10px 26px;
+    max-width: 100%;
+}
+
+/*div{
+	display: inline-block;
+	max-width: 33%;
+}*/
+
+.cutie{
+	max-width: 33%;
+}
+
+.main-container{
+	max-width: 100%;
+}
